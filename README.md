@@ -4,6 +4,7 @@ Uppgiften är att ta in data från MYH och importera den till en databas, samt s
 Projektets utveckling är dokumenterat i medföljande pdf och denna README blir därför kort.
 Labbets samtliga uppgifter inklusive bonus-uppgifterna har lösts och även de resultaten finns i pdf:en, samt i uppgiftsmapparna här i repot.
 
+
 ## Dokumentation
 
 [📄 Läs labbrapporten](The%20Skool%20-%20Jens%20Dossel.pdf)
@@ -13,3 +14,10 @@ Labbets samtliga uppgifter inklusive bonus-uppgifterna har lösts och även de r
 [Uppgift 3 – Datadrivna beslut](uppgift_3/)
 
 [Uppgift 4 – Implementera datamodell](uppgift_4/)
+
+
+## Användning av LLM
+
+Jag använde löpande ChatGPT som virtuellt studiestöd, och bad om förklaring och förtydligande när jag behövde det.
+ChatGPT hjälpte även till att formatera resultaten i Markdown och granskade slutprodukten för att upptäcka eventuella språk- och slarvfel.
+I uppgift 4 fick ChatGPT utföra vissa repetitiva moment efter att jag själv först hade genomfört motsvarande moment och visat att jag behärskade dem.
