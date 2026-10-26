@@ -17,7 +17,9 @@ Labbets samtliga uppgifter inklusive bonus-uppgifterna har lösts och även de r
 
 [Uppgift 4 – Implementera datamodell](uppgift_4/)
 
+## Videopresentation
 
+[▶ Se videopresentationen på YouTube](https://youtu.be/V-ujoo9nmEo)
 ## Användning av LLM
 
 Jag använde löpande ChatGPT som virtuellt studiestöd, och bad om förklaring och förtydligande när jag behövde det.
