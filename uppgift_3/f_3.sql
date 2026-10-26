@@ -1,4 +1,5 @@
-WITH utbildningar AS (
+WITH 
+utbildningar AS (
     SELECT
         UPPER(TRIM(utbildningsnamn)) AS utbildning,
         COUNT(*) AS antal_ansokningar,
